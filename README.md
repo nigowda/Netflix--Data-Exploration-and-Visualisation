@@ -51,6 +51,8 @@ Apply data wrangling and visualization skills using real-world data.
 📬 Contact 
  Nishanth Gowda 
  📧 [nishanthgowdahsn27@gmail.com] 
+ 
  🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-gowda-hassan/) 
+ 
  📂 [Portfolio](https://nigowda.github.io/nishanth-s_portfolio/)
 
