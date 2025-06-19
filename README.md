@@ -41,15 +41,13 @@ description
 
 ✅ Outcome
 Through this case study, I was able to:
-
-Gain a deeper understanding of Netflix's content library.
-
-Identify production trends and gaps across regions and content types.
-
-Apply data wrangling and visualization skills using real-world data.
+- Gain a deeper understanding of Netflix's content library.
+- Identify production trends and gaps across regions and content types.
+- Apply data wrangling and visualization skills using real-world data.
 
 📬 Contact 
- Nishanth Gowda 
+Nishanth Gowda
+
  📧 [nishanthgowdahsn27@gmail.com] 
  
  🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-gowda-hassan/) 
