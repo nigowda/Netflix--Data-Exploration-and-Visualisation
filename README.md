@@ -13,26 +13,26 @@ The goal is to extract business insights to help Netflix understand content tren
 🛠️ Tools & Libraries Used
 - Python 🐍 
 - Pandas 
-➡️NumPy 
-➡️Matplotlib 
-➡️Seaborn 
-➡️Jupyter Notebook
+- NumPy 
+- Matplotlib 
+- Seaborn 
+- Jupyter Notebook
 
 📦 Dataset
 The dataset used: netflix.csv
 
 Features:
-➡️show_id: Unique ID for each show 
-➡️type: Movie or TV Show 
-➡️title, director, cast 
-➡️country, release_year, date_added 
-➡️rating, duration, listed_in
+- show_id: Unique ID for each show 
+- type: Movie or TV Show 
+- title, director, cast 
+- country, release_year, date_added 
+- rating, duration, listed_in
 description
 
 📊 Key Analysis & Insights
-✔️ Content Type Distribution 
-✔️ Top Countries by Content Production 
-✔️ Top Genres by Type 
+✔ Content Type Distribution 
+✔ Top Countries by Content Production 
+✔ Top Genres by Type 
 ✔️ Trend of Releases Over the Years 
 ✔️ Common Ratings Used 
 ✔️ Content Duration Distribution (TV Shows vs Movies) 
