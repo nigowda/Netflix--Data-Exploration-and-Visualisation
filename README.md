@@ -52,5 +52,5 @@ Through this case study, I was able to:
  Nishanth Gowda  
   📧 [nishanthgowdahsn27@gmail.com]  
   🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-gowda-hassan/)  
-  📂 [Portfolio](https://nigowda.github.io/nishanth-s_portfolio/)  
+  📂 [Portfolio](https://nigowda.github.io/Nishanth_Gowda_Portfolio/)  
 
