@@ -2,6 +2,9 @@
 
 📺 Netflix Case Study – Data Analysis Project
 
+![image](https://github.com/user-attachments/assets/1bc8298a-a119-4ba1-a107-a31f03bc6e94)
+
+
 🔍 Project Overview
 This project analyzes the Netflix content dataset using Python and popular data analysis libraries. The dataset contains all TV shows and movies available on Netflix as of 2021, including attributes like title, director, cast, country, date added, duration, genres, and description.
 
