@@ -30,12 +30,12 @@ Features:
 description
 
 📊 Key Analysis & Insights
-✔ Content Type Distribution 
-✔ Top Countries by Content Production 
-✔ Top Genres by Type 
-✔️ Trend of Releases Over the Years 
-✔️ Common Ratings Used 
-✔️ Content Duration Distribution (TV Shows vs Movies) 
-✔️ Top Directors and Cast 
-✔️ Missing Value Handling & Data Cleaning 
+- Content Type Distribution 
+- Top Countries by Content Production 
+- Top Genres by Type 
+- Trend of Releases Over the Years 
+- Common Ratings Used 
+- Content Duration Distribution (TV Shows vs Movies) 
+- Top Directors and Cast 
+- Missing Value Handling & Data Cleaning 
 
