@@ -11,8 +11,8 @@ The goal is to extract business insights to help Netflix understand content tren
 "Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries."
 
 🛠️ Tools & Libraries Used
-➡️Python 🐍 
-➡️Pandas 
+- Python 🐍 
+- Pandas 
 ➡️NumPy 
 ➡️Matplotlib 
 ➡️Seaborn 
